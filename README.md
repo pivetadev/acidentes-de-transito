@@ -2,7 +2,12 @@
 
 ## Análise de Acidentes de Trânsito - Dados Abertos da PRF
 
-Este projeto visa analisar os dados de acidentes de trânsito disponibilizados pela Polícia Rodoviária Federal (PRF) por meio de seus dados abertos. A análise se concentra nos Boletins de Acidentes de Trânsito agrupados por ocorrência do ano 2023, destacando a importância desses acidentes e as possíveis mudanças necessárias para diminuir seu impacto.
+Este projeto visa analisar os dados de acidentes de trânsito disponibilizados pela Polícia Rodoviária Federal (PRF) por meio de seus dados abertos. A análise se concentra nos Boletins de Acidentes de Trânsito agrupados por ocorrência do ano 2023, destacando a importância desses acidentes e as possíveis mudanças necessárias para diminuir seu impacto.\
+<br>
+***Aqui você pode acessar o link dos dados:***
+[Dados abertos da PRF](https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf)
+<br>
+Acessei esse o documento CSV de **Acidentes 2023 (Agrupados por ocorrência)**, mas você pode escolher outros
 
 ### Importância dos Acidentes de Trânsito
 
